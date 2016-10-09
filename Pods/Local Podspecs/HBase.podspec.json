@@ -1,0 +1,26 @@
+{
+  "name": "HBase",
+  "version": "0.0.1",
+  "summary": "一些基类",
+  "description": "自己写的一些基类",
+  "homepage": "https://github.com/hare27/HBase",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "hare27": "hare27@foxmail.com"
+  },
+  "platforms": {
+    "ios": null,
+    "osx": "10.7"
+  },
+  "source": {
+    "git": "https://github.com/hare27/HBase.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "HBase",
+    "HBase/**/*.{h,m}"
+  ]
+}

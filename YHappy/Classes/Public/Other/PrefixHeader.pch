@@ -1,0 +1,20 @@
+//
+//  PrefixHeader.pch
+//  YHappy
+//
+//  Created by hare27 on 16/6/14.
+//  Copyright © 2016年 hare27. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <HTool/HConst.h>
+#import <HKitCategory/UIView+Frame.h>
+#import <Masonry/Masonry.h>
+
+#define kHBackgroudColor HRGBColor(206, 206, 206)
+#define kHMargin 10
+#define kHSmallMargin kHMargin*0.5
+
+#endif /* PrefixHeader_pch */

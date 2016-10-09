@@ -1,0 +1,1 @@
+../../../HFoundationCategory/HFoundationCategory/NSString+Frame.h

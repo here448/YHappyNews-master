@@ -1,0 +1,26 @@
+{
+  "name": "HTool",
+  "version": "0.0.1",
+  "summary": "工具类",
+  "description": "自己写的一些工具类",
+  "homepage": "https://github.com/hare27/HTool",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "hare27": "hare27@foxmail.com"
+  },
+  "platforms": {
+    "ios": null,
+    "osx": "10.7"
+  },
+  "source": {
+    "git": "https://github.com/hare27/HTool.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "HTool",
+    "HTool/**/*.{h,m}"
+  ]
+}

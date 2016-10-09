@@ -1,0 +1,85 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - DACircularProgress (2.3.1)
+  - HBase (0.0.1)
+  - HFoundationCategory (0.0.1)
+  - HKitCategory (0.0.1)
+  - HTool (0.0.1)
+  - Masonry (1.0.1)
+  - MBProgressHUD (1.0.0)
+  - MJRefresh (3.1.12)
+  - RESideMenu (4.0.7)
+  - SDWebImage (3.8.1):
+    - SDWebImage/Core (= 3.8.1)
+  - SDWebImage/Core (3.8.1)
+  - SVProgressHUD (2.0.3)
+
+DEPENDENCIES:
+  - AFNetworking
+  - DACircularProgress
+  - HBase (from `https://github.com/hare27/HBase.git`)
+  - HFoundationCategory (from `https://github.com/hare27/HFoundationCategory.git`)
+  - HKitCategory (from `https://github.com/hare27/HKitCategory.git`)
+  - HTool (from `https://github.com/hare27/HTool.git`)
+  - Masonry
+  - MBProgressHUD
+  - MJRefresh
+  - RESideMenu
+  - SDWebImage
+  - SVProgressHUD
+
+EXTERNAL SOURCES:
+  HBase:
+    :git: https://github.com/hare27/HBase.git
+  HFoundationCategory:
+    :git: https://github.com/hare27/HFoundationCategory.git
+  HKitCategory:
+    :git: https://github.com/hare27/HKitCategory.git
+  HTool:
+    :git: https://github.com/hare27/HTool.git
+
+CHECKOUT OPTIONS:
+  HBase:
+    :commit: d00051f2c8172452d57634a73bf12b04e781f43f
+    :git: https://github.com/hare27/HBase.git
+  HFoundationCategory:
+    :commit: 52da3cb29a5f4861935683031bbf40cc0d3cdb3c
+    :git: https://github.com/hare27/HFoundationCategory.git
+  HKitCategory:
+    :commit: edf78e818b3b72f6be7ee783d6f0beeabb6a47f5
+    :git: https://github.com/hare27/HKitCategory.git
+  HTool:
+    :commit: 2ded520fe8b601471c0d6d3c09b6a943f9f4ebd5
+    :git: https://github.com/hare27/HTool.git
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  HBase: 92b7ab09dc541e1bdbc8eede565a6292d6dd41f3
+  HFoundationCategory: d30199eb30c083c2d3890acc6d4067fe8debb145
+  HKitCategory: 5b3e725aae345914617569fd727aaa21787b98d2
+  HTool: a60813770b653e509f7e7e06a43e91cc5f6c41c2
+  Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  RESideMenu: f24c508404b49c667344c54aba7e590883533958
+  SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+
+PODFILE CHECKSUM: 9857c4e689e15aecf883a585fe55276dc7d62749
+
+COCOAPODS: 1.0.0

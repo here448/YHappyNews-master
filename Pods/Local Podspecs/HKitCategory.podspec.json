@@ -1,0 +1,26 @@
+{
+  "name": "HKitCategory",
+  "version": "0.0.1",
+  "summary": "UIKit的分类",
+  "description": "UIKit的分类",
+  "homepage": "https://github.com/hare27/HKitCategory",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "hare27": "hare27@foxmail.com"
+  },
+  "platforms": {
+    "ios": null,
+    "osx": "10.7"
+  },
+  "source": {
+    "git": "https://github.com/hare27/HKitCategory.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "HKitCategory",
+    "HKitCategory/**/*.{h,m}"
+  ]
+}
